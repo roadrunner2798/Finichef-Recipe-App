@@ -2,6 +2,7 @@
   "name": "finichef-food-recipes",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://roadrunner2798.github.io/Finichef-Recipe-App",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@testing-library/jest-dom": "^5.16.5",
